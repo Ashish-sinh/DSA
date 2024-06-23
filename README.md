@@ -6,14 +6,14 @@ We're excited to have you here! This repository is a collaborative platform for 
 
 Let's learn together, solve problems 🧩, and grow as developers 👩‍💻👨‍💻!
 
-!['image']("[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREegXStTUQRi5RgU3hAuvBcPBa0MqzhhmA-g&s](https://media.licdn.com/dms/image/D4D16AQHftYAUz1z_Qw/profile-displaybackgroundimage-shrink_200_800/0/1691581825761?e=2147483647&v=beta&t=P6bsMZbmSTD0nRkcugkCOD2aZE9S0PUBdKNyJHndkQE)")
+!['image'](https://media.licdn.com/dms/image/D4D16AQHftYAUz1z_Qw/profile-displaybackgroundimage-shrink_200_800/0/1691581825761?e=2147483647&v=beta&t=P6bsMZbmSTD0nRkcugkCOD2aZE9S0PUBdKNyJHndkQE)
 
 
 ### This is a collaborative space for all of us to learn DSA and grow 🌱. Don't hesitate to contribute, no matter how small you think your addition is 🌟. Every contribution counts and helps us all improve!
 
 ### Happy coding! 😊
 ---
-!['image']("[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREegXStTUQRi5RgU3hAuvBcPBa0MqzhhmA-g&s](https://repository-images.githubusercontent.com/258350110/7c98f900-79df-11eb-96df-5efa61b2cbfe)")
+
 ## • How to Contribute
 
 Follow these steps to contribute your DSA problems and solutions:
